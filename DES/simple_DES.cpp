@@ -20,8 +20,6 @@ void k_rearrenge1(string &k)
 void shifting_by_n(string &k, int n)
 {
 	string kk = k;
-	int i = 4;
-
 
 	if (k.length() == 10) {
 		while (n--)
